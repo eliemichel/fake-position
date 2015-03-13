@@ -6,6 +6,6 @@ Fake position is a simple Firefox addon that opens an openstreetmap that is then
 
 The position that Firefox advertises to other pages is the one currently shown in the openstreetmap.
 
-*Warning: Fake position is still under developpment
+*Warning: Fake position is still under developpment*
 
 
